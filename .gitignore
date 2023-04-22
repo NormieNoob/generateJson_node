@@ -1,0 +1,30 @@
+.env
+
+# Logs
+logs
+*.log
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Editor files
+.vscode/
+.idea/
+
+# Dependency directories
+jspm_packages/
+bower_components/
+
+# Output files
+build/
+dist/
+
+# Miscellaneous
+*.bak
+.DS_Store
+Thumbs.db
